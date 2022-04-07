@@ -1,4 +1,6 @@
 [BoutiqueBitmap9x9]
+2020-2022《字言字語》Cen-cyun, Liu. Luke Liu.
+https://fontspeech.blogspot.com/
 These fonts are free software.
 Unlimited permission is granted to use, copy, and distribute them, with or without modification, either commercially or noncommercially.
 THESE FONTS ARE PROVIDED "AS IS" WITHOUT WARRANTY.
@@ -15,6 +17,13 @@ Unlimited permission is granted to use, copy, and distribute it, with or without
 THESE FONTS ARE PROVIDED "AS IS" WITHOUT WARRANTY.
 これらのフォントはフリー（自由な）ソフトウエアです。
 あらゆる改変の有無に関わらず、また商業的な利用であっても、自由にご利用、複製、再配布することができますが、全て無保証とさせていただきます。
+[ベストテン（BestTen-DOT）]
+フリーフォントのベストテンは無料でダウンロードできるドットフォント。商用・非商用問わず使用可能なので、安心してダウンロードしてください。
+作成した印刷物およびデジタル・コンテンツにつき、その商用・非商用にかかわらず印刷、放送、通信、各種記録メディアなどの媒体の形式も問わず、使用をすることができます。プログラムへの埋め込みが可能です。
+このフォントのライセンスは、
+M+のライセンスに準じます。
+M+ FONT LICENSEについては、配布物に含まれる
+mplus_bitmap_fonts をご覧ください。
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
