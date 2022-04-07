@@ -1,2 +1,1 @@
-# BoutiqueBitmap9x9
-免費、開源的點陣字體《精品點陣體9×9》。A free, open source bitmap font "BoutiqueBitmap9x9".
+# BoutiqueBitmap9x9 精品點陣體9×9 精品点阵体9×9
