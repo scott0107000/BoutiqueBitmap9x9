@@ -6,6 +6,11 @@
 
 這是一款帶有極強烈的點陣風格的字型，非常適合用在像素畫、遊戲相關主題等等。
 
+[圖片1](https://github.com/scott0107000/BoutiqueBitmap9x9/blob/20b5d239b6cb563349fcab52393269377fd81338/README_IMG/%E6%9C%AA%E5%91%BD%E5%90%8D-7.png)
+[圖片2](https://github.com/scott0107000/BoutiqueBitmap9x9/blob/20b5d239b6cb563349fcab52393269377fd81338/README_IMG/%E6%9C%AA%E5%91%BD%E5%90%8D-8.png)
+[圖片3](https://github.com/scott0107000/BoutiqueBitmap9x9/blob/20b5d239b6cb563349fcab52393269377fd81338/README_IMG/%E6%9C%AA%E5%91%BD%E5%90%8D-9.png)
+[圖片4](https://github.com/scott0107000/BoutiqueBitmap9x9/blob/20b5d239b6cb563349fcab52393269377fd81338/README_IMG/%E6%9C%AA%E5%91%BD%E5%90%8D-10.png)
+
 ## 授權
 
 - 本字型基於 SIL Open Font License 1.1 授權條款公開發布。關於授權合約的詳細內容，請詳讀授權文件檔（OFL.txt）。
