@@ -6,6 +6,8 @@
 
 這是一款帶有極強烈的點陣風格的字型，非常適合用在像素畫、遊戲相關主題等等。
 
+查看完整的介紹、後記等請麻煩移駕至[鄙人的部落格（博客/Blog）](https://fontspeech.blogspot.com/)。
+
 ![圖片1](https://github.com/scott0107000/BoutiqueBitmap9x9/blob/20b5d239b6cb563349fcab52393269377fd81338/README_IMG/%E6%9C%AA%E5%91%BD%E5%90%8D-7.png)
 ![圖片2](https://github.com/scott0107000/BoutiqueBitmap9x9/blob/20b5d239b6cb563349fcab52393269377fd81338/README_IMG/%E6%9C%AA%E5%91%BD%E5%90%8D-8.png)
 ![圖片3](https://github.com/scott0107000/BoutiqueBitmap9x9/blob/20b5d239b6cb563349fcab52393269377fd81338/README_IMG/%E6%9C%AA%E5%91%BD%E5%90%8D-9.png)
@@ -24,5 +26,8 @@
  ## 贊助
 
  - 如果喜歡我們的字型，覺得我的字型對你很有幫助，歡迎抖內。您的支持是給予我們製作更多中文字型的能量（及零食的熱量）🥰：
- [贊助網址](https://core.newebpay.com/EPG/boutiquebitmap/aQJIdj)
+   
+[贊助網址](https://core.newebpay.com/EPG/boutiquebitmap/aQJIdj) 
+
+ 
 ![圖片5](https://github.com/scott0107000/BoutiqueBitmap9x9/blob/2a52c26e7d46aaa2a5cbbd2a9e7bd191896081c6/README_IMG/%E6%9C%AA%E5%91%BD%E5%90%8D-11.png)
