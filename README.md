@@ -15,7 +15,7 @@
 
 ## 授權
 
-- 本字型基於 SIL Open Font License 1.1 授權條款公開發布。關於授權合約的詳細內容，請詳讀授權文件檔（OFL.txt）。
+- 本字型基於 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 授權條款公開發布。關於授權合約的詳細內容，請詳讀授權文件檔（OFL.txt）。
 
   - **BoutiqueBitmap**、**精品點陣體**、**精品点阵体**為本專案的保留名稱。
   - 任何人可以無償使用此字型，包含商用。無須告知原作者。
