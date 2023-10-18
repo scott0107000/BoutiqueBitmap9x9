@@ -6,6 +6,8 @@
 
 這是一款帶有極強烈的點陣風格的字型，非常適合用在像素畫、遊戲相關主題等等。
 
+[![1](./README_IMG/FUN9x9.png)](https://github.com/scott0107000/BoutiqueBitmap9x9/tree/main/FUN)
+
 查看完整的介紹、後記等請麻煩移駕至[鄙人的部落格（博客/Blog）](https://fontspeech.blogspot.com/)。
 
 ![圖片1](https://github.com/scott0107000/BoutiqueBitmap9x9/blob/20b5d239b6cb563349fcab52393269377fd81338/README_IMG/%E6%9C%AA%E5%91%BD%E5%90%8D-7.png)
