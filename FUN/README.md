@@ -6,6 +6,8 @@
 
 目前（18 October 2023）已經開發了兩種變化字型，分別為《精品點陣體9×9　**方格版**》及《精品點陣體9×9　**圓形版**》，兩款字型皆收錄了原《精品點陣體9×9》之[繁體Big5字表](http://web.archive.org/web/20170127105911/http://ash.jp/code/cn/big5tbl.htm)內之常用字、[簡體GB/T 2312-80字符集](https://web.archive.org/web/20170213161307/http://ash.jp/code/cn/gb2312tbl.htm)內常用字等，一共6834字（[“兀嗀”未重複計算](https://idv.sinica.edu.tw/bear/charcodes/Section09.htm#:~:text=%E3%80%90%E8%A8%BB%EF%BC%9ABig5%E7%A2%BC%E4%B8%AD%E6%96%87%E5%AD%97%E9%9B%86%E5%8E%9F%E7%82%BA13%2C053%E5%80%8B%E5%AD%97%EF%BC%8C%E4%BD%86%E5%9B%A0%E3%80%8E%E5%85%80%E3%80%8F%E5%AD%97%E9%87%8D%E8%A4%87%E7%B7%A8%E7%A2%BC%EF%BC%88A461h%E8%88%87C94Ah%EF%BC%89%E4%BB%A5%E5%8F%8A%E3%80%8E%E5%97%80%E3%80%8F%E9%87%8D%E8%A4%87%E7%B7%A8%E7%A2%BC%EF%BC%88DCD1h%E8%88%87DDFCh%EF%BC%89%EF%BC%8C%E5%8E%BB%E8%99%95%E9%87%8D%E8%A4%87%E5%85%A9%E5%AD%97%E5%BE%8C%E5%8F%AA%E5%89%A913%2C051%E5%80%8B%E5%AD%97%E3%80%82%E3%80%91)），并與上游授權條款相同，皆為[**ＯＦＬ授權條款**](https://github.com/scott0107000/BoutiqueBitmap9x9/blob/main/OFL.txt)。
 
+於 19 October 2023 另外新增３款，分別為**漏光版**、**立體版**、**漸層版**。
+
 # 實驗性質功能
 
 此字型在 Opentype 功能裏添加了簡易的**簡繁體轉換功能**。可以使用 ss01（文體集01） 或 trad 功能實現简体轉換繁體；使用 ss02（文體集02） 或 smpl 實現繁體轉換简体。目前僅能實現一對一替換，無法處理一堆多（如：游泳↔遊戲、著作↔着想）。
