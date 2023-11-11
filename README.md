@@ -15,6 +15,26 @@
 ![圖片3](https://github.com/scott0107000/BoutiqueBitmap9x9/blob/20b5d239b6cb563349fcab52393269377fd81338/README_IMG/%E6%9C%AA%E5%91%BD%E5%90%8D-9.png)
 ![圖片4](https://github.com/scott0107000/BoutiqueBitmap9x9/blob/20b5d239b6cb563349fcab52393269377fd81338/README_IMG/%E6%9C%AA%E5%91%BD%E5%90%8D-10.png)
 
+## 遊戲手柄按鈕字符
+
+本字型收錄了３款主流遊戲主機手柄的按鈕符號，可以方便開發者使用。具體按鈕的Unicode編碼及示範效果如下：
+
+- ＪＣ：
+
+![圖片5](./README_IMG/jc.png)
+
+- ＸＢ：
+
+![圖片6](./README_IMG/xb.png)
+
+- ＰＳ：
+
+![圖片7](./README_IMG/PS.png)
+
+- 示範：
+
+![圖片8](./README_IMG/4.png)
+
 ## 授權
 
 - 本字型基於 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 授權條款公開發布。關於授權合約的詳細內容，請詳讀授權文件檔（OFL.txt）。
