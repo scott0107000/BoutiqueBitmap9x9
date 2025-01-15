@@ -2,7 +2,7 @@
 
 # BoutiqueBitmap9x9／精品點陣體9×9／精品点阵体9×9
 
- 《精品點陣體9×9 (BoutiqueBitmap9x9) 》家族是一款基於M+ BITMAP FONTS及ベストテン（BestTen-DOT）改作的字型，目的為適合在繁體中文環境中使用。我們改正了一些標點符號、日本習慣寫法、增加大量字符與Opentype特性——包括顏文字用符號、簡體中文、直排特性等——使字型使用更方便！
+ 《精品點陣體9×9 (BoutiqueBitmap9x9) 》家族是一款基於M+ BITMAP FONTS及ベストテン（BestTen-DOT）改作的字型，并以[缝合像素字体](https://github.com/TakWolf/fusion-pixel-font)作作為字符補充，目的為適合在繁體中文環境中使用。我們改正了一些標點符號、日本習慣寫法、增加大量字符與Opentype特性——包括顏文字用符號、簡體中文、直排特性等——使字型使用更方便！
 
 這是一款帶有極強烈的點陣風格的字型，非常適合用在像素畫、遊戲相關主題等等。
 
